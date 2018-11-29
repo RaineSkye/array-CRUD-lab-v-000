@@ -1,9 +1,11 @@
 def create_an_empty_array
   array = Array.new
+  # []
 end
 
 def create_an_array
   num_array = [1,10,20,40]
+  # [1,10,20,40]
 end
 
 def add_element_to_end_of_array(array, element)
